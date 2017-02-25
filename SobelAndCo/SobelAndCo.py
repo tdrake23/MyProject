@@ -8,3 +8,5 @@ f = f[300:600,300:600]
 misc.imsave('face.png', f) # uses the Image module (PIL)
 plt.imshow(f)
 plt.show()
+
+#hello
